@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m
+git status
+git restore
+git remote set-url origin
+git remote -v
+git push origin master
+git clone url
